@@ -206,7 +206,7 @@ name: 'Boris Schapira'
 title: 'Boris Schapira'
 email: borisschapira@gmail.com
 description: "Site de Boris Schapira. Notes personnelles, professionnelles, citoyennes et autres répertoires de ma vie numérique."
-url: "https://boris.schapira.dev"
+url: "https://futiu.com"
 timezone: Europe/Paris
 incremental: true
 encoding: utf-8
@@ -223,7 +223,7 @@ microtypo:
 
 # Author
 name: 'Boris Schapira'
-domain: 'boris.schapira.dev'
+domain: 'futiu.com'
 author:
   name: 'Boris Schapira'
   avatar: 'https://avatars.schapira.dev/avataars_1200.png'
